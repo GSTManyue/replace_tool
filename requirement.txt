@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 streamlit
 pdfplumber
 pandas
 lxml
+=======
+streamlit
+pdfplumber
+pandas
+lxml
+>>>>>>> d38b7929e73678f535e5f3c3a5168d72048a8c28
