@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+pandas
+lxml
+=======
+streamlit
+pdfplumber
+pandas
+lxml
